@@ -1,0 +1,11 @@
+.container {
+    text-align: center;
+}
+
+.container div {
+    margin: 2rem;
+}
+
+ul {
+    list-style: none;
+}
